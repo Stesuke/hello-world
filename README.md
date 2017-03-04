@@ -1,2 +1,2 @@
 # hello-world
-Hello World project to laern Github basics
+Hello World project to learn Github basics
